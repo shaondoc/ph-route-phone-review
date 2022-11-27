@@ -1,0 +1,13 @@
+.footer-container{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+
+    padding: 10px;
+    background-color: rgb(226, 222, 222);
+    height: 40px;
+}
+.footer-container h4{
+    color: coral;
+    margin:auto ;
+}

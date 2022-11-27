@@ -1,0 +1,16 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #33414E;
+    height: 45px;
+}
+.navbar a{
+    text-decoration: none;
+    font-weight: 700;
+    margin: 5px;
+    color: aliceblue;
+}
+.navbar a:hover{
+    color: chocolate;
+}
